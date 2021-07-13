@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+.top {
+    color: #990000;
+    text-align: center;
+}
+p {
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
